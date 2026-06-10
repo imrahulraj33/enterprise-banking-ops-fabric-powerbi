@@ -1,0 +1,9 @@
+picg_id,picg_code,picg_name,business_group_id,data_owner,status
+PICG001,PCG-CORP-001,Corporate Customer Data,BG001,Ahmed Khan,Active
+PICG002,PCG-RTL-001,Retail Customer Data,BG002,Mohammed Noor,Active
+PICG003,PCG-OPS-001,Operations Case Data,BG003,Priya Menon,Active
+PICG004,PCG-RSK-001,Risk Control Data,BG004,John Mathew,Active
+PICG005,PCG-CMP-001,Compliance Review Data,BG005,Sara Ali,Active
+PICG006,PCG-TEC-001,System Access Data,BG006,David Paul,Active
+PICG007,PCG-TRS-001,Treasury Transaction Data,BG007,Neha Singh,Active
+PICG008,PCG-FIN-001,Finance Reconciliation Data,BG008,Vikram Rao,Active

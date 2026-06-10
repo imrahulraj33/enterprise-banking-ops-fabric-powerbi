@@ -1,0 +1,21 @@
+request_id,request_date,business_group_id,building_id,picg_id,request_type,priority,status,sla_days,closed_date
+REQ001,2025-01-03,BG001,BLD001,PICG001,Admin Update,High,Closed,3,2025-01-05
+REQ002,2025-01-06,BG003,BLD002,PICG003,Data Correction,Medium,Pending,5,
+REQ003,2025-01-08,BG004,BLD003,PICG004,Access Review,High,Closed,2,2025-01-12
+REQ004,2025-01-10,BG005,BLD004,PICG005,Compliance Update,High,Pending,3,
+REQ005,2025-01-15,BG002,BLD005,PICG002,Admin Update,Low,Closed,7,2025-01-20
+REQ006,2025-02-01,BG001,BLD001,PICG001,Data Correction,Medium,Rejected,5,
+REQ007,2025-02-04,BG003,BLD002,PICG003,Access Review,High,Closed,2,2025-02-05
+REQ008,2025-02-10,BG005,BLD004,PICG005,Compliance Update,High,Pending,3,
+REQ009,2025-02-12,BG004,BLD003,PICG004,Risk Review,Medium,Closed,4,2025-02-17
+REQ010,2025-02-15,BG002,BLD005,PICG002,Admin Update,Low,Closed,7,2025-02-18
+REQ011,2025-03-01,BG006,BLD006,PICG006,System Access,High,Pending,2,
+REQ012,2025-03-04,BG007,BLD007,PICG007,Treasury Review,Medium,Closed,4,2025-03-07
+REQ013,2025-03-08,BG008,BLD008,PICG008,Finance Reconciliation,High,Closed,5,2025-03-15
+REQ014,2025-03-11,BG006,BLD006,PICG006,Data Correction,Medium,Closed,5,2025-03-13
+REQ015,2025-03-18,BG005,BLD004,PICG005,Compliance Update,High,Rejected,3,
+REQ016,2025-04-02,BG001,BLD001,PICG001,Admin Update,High,Closed,3,2025-04-03
+REQ017,2025-04-05,BG003,BLD002,PICG003,Operations Case Update,Medium,Pending,5,
+REQ018,2025-04-09,BG004,BLD003,PICG004,Risk Review,High,Closed,2,2025-04-14
+REQ019,2025-04-15,BG002,BLD005,PICG002,Customer Data Update,Low,Closed,7,2025-04-18
+REQ020,2025-04-20,BG008,BLD008,PICG008,Finance Reconciliation,Medium,Pending,5,

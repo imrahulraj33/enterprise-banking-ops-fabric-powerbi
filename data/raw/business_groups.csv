@@ -1,0 +1,9 @@
+business_group_id,business_group_name,division,region,status
+BG001,Corporate Banking,Wholesale Banking,UAE,Active
+BG002,Retail Banking,Consumer Banking,UAE,Active
+BG003,Operations,Shared Services,UAE,Active
+BG004,Risk Management,Risk,UAE,Active
+BG005,Compliance,Governance,UAE,Active
+BG006,Technology,IT Services,UAE,Active
+BG007,Treasury,Treasury,UAE,Active
+BG008,Finance,Finance,UAE,Active
